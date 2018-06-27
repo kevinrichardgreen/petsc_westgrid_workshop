@@ -1,4 +1,6 @@
-#+TITLE: Introduction to using PETSc for Scientific computing
-#+DATE: 2017-07-26
+#+TITLE: Introduction to using PETSc for scientific computing
+#+DATE: 2018-06-27
 
 Welcome!
+
+The example codes with this workshop use petsc v3.8.2.
